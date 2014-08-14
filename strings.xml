@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<resources>
+
+<string name="app_name">SendEmail</string>
+
+<string name="hello_world">Hello world!</string>
+
+<string name="action_settings">Settings</string>
+
+<string name="to">To:</string>
+
+<string name="email">Enter Email id</string>
+
+<string name="sendEmail">Send Email</string>
+
+</resources>
